@@ -44,4 +44,4 @@
 
 <img src="img/4861539221529_.pic.jpg" alt="hi" class="inline"/>
 
-<img src="img/4811539221524_.pic.jpg" alt="hi" class="inline"/>
+<img src="qrcode.jpg" alt="hi" class="inline"/>
