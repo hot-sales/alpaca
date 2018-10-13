@@ -34,8 +34,6 @@
 
 <img src="img/4741539221515_.pic.jpg" alt="hi" class="inline"/>
 
-<img src="img/4931539221539_.pic.jpg" alt="hi" class="inline"/>
-
 <img src="img/4861539221529_.pic.jpg" alt="hi" class="inline"/>
 
 <img src="img/4871539221530_.pic.jpg" alt="hi" class="inline"/>
